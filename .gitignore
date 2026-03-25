@@ -1,0 +1,10 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore Database properties or env files
+.env
+db.properties
+
+# Ignore IDE specific folders
+.vscode/
+.DS_Store
