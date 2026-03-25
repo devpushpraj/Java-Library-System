@@ -8,3 +8,7 @@ db.properties
 # Ignore IDE specific folders
 .vscode/
 .DS_Store
+
+# Ignore JAR files
+*.jar
+lib/
